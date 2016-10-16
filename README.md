@@ -4,7 +4,7 @@ A countdown timer that counts every second down to the end of 2016 and created a
 ###Total time spent
 About 40 minutes
 ###Tools used
-Html, Css, Javascript, jQuery, Bootstrap
+Html, Css, Javascript, jQuery, Bootstrap,
 IDE: Sublime Text 2
 ###Why these tools
 jQuery reduces the development time and makes javascript event handeling tasks much easier.
