@@ -30,3 +30,10 @@
 #seconds{
     color: red;
 }
+
+/*making our page responsive*/
+@media screen and (max-width: 800px) {
+    .counterInfo {
+        font-size:50px;
+    }
+}
