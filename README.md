@@ -4,8 +4,11 @@ A countdown timer that counts every second down to the end of 2016 and created a
 ###Total time spent
 About 40 minutes
 ###Tools used
-Html, Css, Javascript, Jquery, Bootstap
+Html, Css, Javascript, jQuery, Bootstrap
 IDE: Sublime Text 2
+###Why these tools
+jQuery reduces the development time and makes javascript event handeling tasks much easier.
+Bootstrap enhaces css features.
 ###Bugs/Improvement
 We can add the number of remaining days, instead of total number of hours. We can do that by dividing the hours by 24 and display it on our view.
 ###Testing
