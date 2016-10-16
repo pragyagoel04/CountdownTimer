@@ -21,3 +21,12 @@
     font-size: 150px;
     font-weight: 900;
 }
+
+.units{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#seconds{
+    color: red;
+}
